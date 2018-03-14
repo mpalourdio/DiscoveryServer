@@ -13,7 +13,7 @@
     <description>Spring Cloud Discovery Server</description>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:mpalourdio/SpringCloudDiscoveryServer.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:mpalourdio/DiscoveryServer.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
