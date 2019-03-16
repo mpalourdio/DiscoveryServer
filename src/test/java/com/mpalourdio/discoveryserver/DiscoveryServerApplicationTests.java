@@ -15,9 +15,9 @@ import org.springframework.test.context.TestPropertySource;
 
 @SpringBootTest
 @TestPropertySource(locations = "classpath:test.properties")
-public class DiscoveryServerApplicationTests {
+class DiscoveryServerApplicationTests {
 
     @Test
-    public void contextLoads() {
+    void contextLoads() {
     }
 }
