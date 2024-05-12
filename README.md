@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/mpalourdio/DiscoveryServer/workflows/CI/badge.svg?branch=master)](https://github.com/mpalourdio/DiscoveryServer/actions)
+[![CI](https://github.com/mpalourdio/DiscoveryServer/actions/workflows/main.yml/badge.svg)](https://github.com/mpalourdio/DiscoveryServer/actions/workflows/main.yml)
 
 Spring Cloud Discovery Server
 =============================
