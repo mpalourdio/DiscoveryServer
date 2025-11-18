@@ -2,3 +2,7 @@ target
 logs
 .idea/
 *.iml
+.gradle
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
